@@ -1,0 +1,14 @@
+.recipe-box {
+    position: relative;
+    width: 800px;
+    margin-top: 30px;
+}
+
+.recipe-box h1 {
+    text-align: center;
+}
+
+.recipe-box p {
+    font-size: 18px;
+    margin-top: 20px;
+}

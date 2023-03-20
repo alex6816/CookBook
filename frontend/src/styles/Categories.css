@@ -1,0 +1,13 @@
+.cat-list {
+    margin: 40px 0 0 10px;
+    
+}
+
+ul {
+    list-style-type: none;
+    font-size: 22px;
+}
+
+li {
+    margin-bottom: 12px;
+}
